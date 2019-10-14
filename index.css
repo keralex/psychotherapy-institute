@@ -1,7 +1,13 @@
 body {
     margin: 0;
+    padding: 0;
+    background-color: #F2EFED;
 }
 
+*{
+    margin:0px;
+    padding:0px;
+}
 .navbar {
     background-color: #0b2c6aec;
 }
@@ -13,13 +19,28 @@ body {
 
 .navbar a:hover {
 
-    color: #327FFC
+    color: rgb(165, 165, 165)
 }
-.box{
-    height: 100vh;
-    width: 100vw;
+
+.box {
+    width:100%;
+    height:100vh;
+   
 }
-.background1{
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* home */
+#home {
     background-image: url("./img/psychology-2647941_1920\ copy.png");
     background-size: cover;
+    background-repeat: no-repeat;
+    color: #0B2C6A;
 }
