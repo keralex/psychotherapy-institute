@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #0b2c6a;
+}
+
+.navbar a {
+    color: #FEFFF9;
+    transition: 0.3s;
+}
+
+.navbar a:hover {
+
+    color: #327FFC
+}
