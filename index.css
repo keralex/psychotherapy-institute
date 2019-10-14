@@ -34,13 +34,23 @@ body {
     justify-content: center;
     align-items: center;
 }
+.image{
+    width: 100%;
+}
 
-
-
+.blue1{
+    color: #0B2C6A;
+}
+.blue2{
+    color:#327FFC;
+}
+.box2{
+    height: 80vh;
+    width: 100%
+}
 /* home */
 #home {
     background-image: url("./img/psychology-2647941_1920\ copy.png");
     background-size: cover;
     background-repeat: no-repeat;
-    color: #0B2C6A;
 }
