@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background-color: #0b2c6a;
+    background-color: #0b2c6aec;
 }
 
 .navbar a {
@@ -14,4 +14,12 @@ body {
 .navbar a:hover {
 
     color: #327FFC
+}
+.box{
+    height: 100vh;
+    width: 100vw;
+}
+.background1{
+    background-image: url("./img/psychology-2647941_1920\ copy.png");
+    background-size: cover;
 }
