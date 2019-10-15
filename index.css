@@ -114,10 +114,10 @@ footer .col-sm-4{
 
 /* queries */
 @media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 736px) 
-  and (-webkit-min-device-pixel-ratio: 3) { 
-.col-lg-6{
-     background-color: #0B2C6A;
- }
+  and (max-width: 450px) 
+   { 
+      #contact{
+          background-image: none;
+      }
+ 
 }
