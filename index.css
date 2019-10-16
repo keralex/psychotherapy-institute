@@ -9,6 +9,14 @@ body {
     padding: 0px;
 }
 
+
+.montserrat{
+    font-family: Montserrat;
+}
+.quicksand{
+    font-family: Quicksand;
+    
+}
 .navbar {
     background-color: #0b2c6aec;
 }
@@ -147,6 +155,7 @@ body {
 /* footer */
 footer {
     background-color: #0B2C6A;
+    padding-top: 1em;
 }
 
 footer .col-sm-4 {
